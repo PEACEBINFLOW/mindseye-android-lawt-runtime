@@ -1,0 +1,10 @@
+{
+  "event_type": "bluetooth_device_detected",
+  "name": "Sony Headset",
+  "mac": "6C:12:55:AA:94:F0",
+  "blockId": "daily_2025-11-18",
+  "segmentId": "2025-11-18T10",
+  "channel": "device",
+  "priority": "normal",
+  "fingerprint": "a93bf2..."
+}
