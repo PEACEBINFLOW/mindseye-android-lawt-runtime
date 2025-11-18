@@ -1,0 +1,8 @@
+```markdown
+# LAW-T: Law of Time (Android Edition)
+
+Defines how mobile events receive:
+
+- Daily block IDs
+- Hour-based segment IDs
+- Time-sorted event lineage
